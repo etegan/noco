@@ -1,0 +1,2 @@
+# noco
+Node Configuration
